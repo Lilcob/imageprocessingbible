@@ -1,5 +1,5 @@
 # 『이미지처리 바이블』
-
++  [정오표](https://docs.google.com/spreadsheets/d/1lBsSIl2owsHtcPgP4V_zPKv7YPRipHjuIc5LJdq2rJY/edit?usp=sharing) 
 <h3>파이썬과 OpenCV, TensorFlow를 통해 이미지처리의 모든 것을 배우고 실전에 적용해보자!</h3>
 본 자료는 <strong>구글 코랩(Google Colab)</strong> 기반으로 작성되었습니다. 각 장의 실행 코드는 아래 링크를 클릭하여 구글 코랩에서 바로 실행할 수 있습니다.
 
