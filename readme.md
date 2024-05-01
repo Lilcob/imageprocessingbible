@@ -51,10 +51,10 @@
 
 ![](https://image.yes24.com/goods/126158349/XL)
 
-* 자세한 책 소개 및 구매:
-* 교보문고 http://gilbut.co/c/24046524Uz
-* 예스24 http://gilbut.co/c/24044430Gg
-* 알라딘 http://gilbut.co/c/24043810jT
+* 자세한 책 소개 및 구매
+    * 교보문고 http://gilbut.co/c/24046524Uz
+    * 예스24 http://gilbut.co/c/24044430Gg
+    * 알라딘 http://gilbut.co/c/24043810jT
 
 
 ## 소스 실행 방법
